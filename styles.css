@@ -1,0 +1,29 @@
+a {
+ display: inline-block;
+ transition: .3s;
+ font-weight:bold;
+font-size: 40px;
+
+ text-decoration:none;
+ }
+ a:hover {
+ -webkit-transform: scale(1.2);
+ transform: scale(1.2);
+ }
+ #watermark
+{
+ position:fixed;
+ bottom:5%;
+ right:5%;
+
+
+font-size: 170px;
+ opacity:0.2;
+
+z-index:99;
+ color:rgb(17, 17, 17);
+}
+.a1{
+    background-color:white;
+   
+}
